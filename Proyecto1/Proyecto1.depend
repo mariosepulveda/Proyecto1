@@ -13,3 +13,15 @@
 
 1440644709 source:c:\users\luisa\proyecto1\proyecto1\banderas.c
 
+1440695425 source:c:\users\mario_000\proyecto1\proyecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1440695425 source:c:\users\mario_000\proyecto1\proyecto1\registros.c
+	"registros.h"
+
+1440695425 c:\users\mario_000\proyecto1\proyecto1\registros.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
